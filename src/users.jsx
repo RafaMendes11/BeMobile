@@ -2,7 +2,7 @@ export const Users = [
 
     {
         "id": 1,
-        "foto": <img className="avatar1" src="https://cdn-icons-png.flaticon.com/512/1864/1864509.png" alt="" />,
+        "foto": <img className="avatar1" src="https://uploaddeimagens.com.br/images/004/044/104/full/image.png?1664556231" alt="" />,
         "name": "Rodrigo Mota",
         "cargo": "Front-end",
         "ano": "00/00/0000",
@@ -10,7 +10,7 @@ export const Users = [
     },
     {
         "id": 2,
-        "foto": <img className="avatar1" src="https://cdn-icons-png.flaticon.com/512/2335/2335153.png" alt="" />,
+        "foto": <img className="avatar1" src="https://uploaddeimagens.com.br/images/004/044/115/full/image_%281%29.png?1664556434" alt="" />,
         "name": "Giovana L.Arruda",
         "cargo": "Back-end",
         "ano": "00/00/0000",
@@ -18,7 +18,7 @@ export const Users = [
     },
     {
         "id": 3,
-        "foto": <img className="avatar1" src="https://cdn-icons-png.flaticon.com/512/8149/8149682.png" alt="" />,
+        "foto": <img className="avatar1" src="https://uploaddeimagens.com.br/images/004/044/119/full/image_%282%29.png?1664556479" alt="" />,
         "name": "Luciano Triumfo",
         "cargo": "Designer",
         "ano": "00/00/0000",
@@ -26,7 +26,7 @@ export const Users = [
     },
     {
         "id": 4,
-        "foto": <img className="avatar1" src="https://cdn-icons-png.flaticon.com/512/1864/1864509.png" alt="" />,
+        "foto": <img className="avatar1" src="https://uploaddeimagens.com.br/images/004/044/104/full/image.png?1664556231" alt="" />,
         "name": "Rodrigo Mota",
         "cargo": "Front-end",
         "ano": "00/00/0000",
@@ -34,7 +34,7 @@ export const Users = [
     },
     {
         "id": 5,
-        "foto": <img className="avatar1" src="https://cdn-icons-png.flaticon.com/512/2335/2335153.png" alt="" />,
+        "foto": <img className="avatar1" src="https://uploaddeimagens.com.br/images/004/044/115/full/image_%281%29.png?1664556434" alt="" />,
         "name": "Giovana L.Arruda",
         "cargo": "Back-end",
         "ano": "00/00/0000",
@@ -42,7 +42,7 @@ export const Users = [
     },
     {
         "id": 6,
-        "foto": <img className="avatar1" src="https://cdn-icons-png.flaticon.com/512/8149/8149682.png" alt="" />,
+        "foto": <img className="avatar1" src="https://uploaddeimagens.com.br/images/004/044/119/full/image_%282%29.png?1664556479" alt="" />,
         "name": "Luciano Triumfo",
         "cargo": "Designer",
         "ano": "00/00/0000",
@@ -50,7 +50,7 @@ export const Users = [
     },
     {
         "id": 7,
-        "foto": <img className="avatar1" src="https://cdn-icons-png.flaticon.com/512/1864/1864509.png" alt="" />,
+        "foto": <img className="avatar1" src="https://uploaddeimagens.com.br/images/004/044/104/full/image.png?1664556231" alt="" />,
         "name": "Rodrigo Mota",
         "cargo": "Front-end",
         "ano": "00/00/0000",
@@ -58,7 +58,7 @@ export const Users = [
     },
     {
         "id": 8,
-        "foto": <img className="avatar1" src="https://cdn-icons-png.flaticon.com/512/2335/2335153.png" alt="" />,
+        "foto": <img className="avatar1" src="https://uploaddeimagens.com.br/images/004/044/115/full/image_%281%29.png?1664556434" alt="" />,
         "name": "Giovana L.Arruda",
         "cargo": "Back-end",
         "ano": "00/00/0000",
@@ -66,7 +66,7 @@ export const Users = [
     },
     {
         "id": 9,
-        "foto": <img className="avatar1" src="https://cdn-icons-png.flaticon.com/512/8149/8149682.png" alt="" />,
+        "foto": <img className="avatar1" src="https://uploaddeimagens.com.br/images/004/044/119/full/image_%282%29.png?1664556479" alt="" />,
         "name": "Luciano Triumfo",
         "cargo": "Designer",
         "ano": "00/00/0000",
@@ -74,7 +74,7 @@ export const Users = [
     },
     {
         "id": 10,
-        "foto": <img className="avatar1" src="https://cdn-icons-png.flaticon.com/512/1864/1864509.png" alt="" />,
+        "foto": <img className="avatar1" src="https://uploaddeimagens.com.br/images/004/044/104/full/image.png?1664556231" alt="" />,
         "name": "Rodrigo Mota",
         "cargo": "Front-end",
         "ano": "00/00/0000",
